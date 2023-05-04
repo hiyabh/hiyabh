@@ -20,11 +20,13 @@
 </p>
 <br />
 <br />
-    <div style="display:flex;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyabh&title=Commits" alt="hiyabh" />
-</a>
-</div>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" />
+
+
+
+
+
 <br />
 <h3 align="left">Languages and Tools:</h3>
 </p>
@@ -153,6 +155,6 @@
             height="40"
           />
         </a>
-        <a href="https://chat.openai.com/" target="blank"><img src="https://drive.google.com/uc?export=view&id=12VWCiP2rPiT1QozRBxGL-nSwWwcCIP1a" alt="hiyabh" height="50" width="100" /></a>
-         <a href="https://github.com/Significant-Gravitas/Auto-GPT" target="blank"><img src="https://drive.google.com/uc?export=view&id=1Fw2RYm7btdbBVny_1cVnCzyAuZydGs3F" alt="hiyabh" height="50" width="100" /></a>
+        <a href="https://chat.openai.com/" target="blank"><img src="https://drive.google.com/uc?export=view&id=12VWCiP2rPiT1QozRBxGL-nSwWwcCIP1a" alt="hiyabh" height="40" width="75" /></a>
+         <a href="https://github.com/Significant-Gravitas/Auto-GPT" target="blank"><img src="https://drive.google.com/uc?export=view&id=1Fw2RYm7btdbBVny_1cVnCzyAuZydGs3F" alt="hiyabh" height="40" width="90" /></a>
      
