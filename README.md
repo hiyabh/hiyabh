@@ -3,7 +3,7 @@
 
 <p align="center"> <img width="150" src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
 </a> </p>
-<img align="right" alt="Coding" width="300" src="/code.png">
+<img align="right" alt="Coding" width="350" src="/code.png">
 
 - 📫 How to reach me **hiyalea@gmail.com**
 
