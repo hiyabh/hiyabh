@@ -1,9 +1,9 @@
 <h1 align="center">Hiya Ben Hamu</h1>
-<h3 align="center">Frontend Developer, Israel </h3>
-<img align="right" alt="Coding" width="300" src="/code.png">
+<h2 align="center">Frontend Developer, Israel </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
 </a> </p>
+<img align="right" alt="Coding" width="300" src="/code.png">
 
 - 📫 How to reach me **hiyalea@gmail.com**
 
@@ -15,9 +15,7 @@
 <a href="https://he.quora.com/profile/%D7%97%D7%99%D7%99%D7%90-%D7%91%D7%9F-%D7%97%D7%9E%D7%95" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1dzSYagI1RBOiEvQVWb-cxIVb7BlBzWK2" alt="lidormalich2" height="40" width="40" /></a>
 <a href="https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1Vjrz81jxk5vOX-SKptZphcmLQQpCZ_ab" alt="lidormalich2" height="40" width="40" /></a>
 </p>
-</p>
-</p>
-
+<br />
 <h3 align="left">Languages and Tools:</h3>
 </p>
 <p align="left">
@@ -89,6 +87,7 @@
             height="40"
           />
         </a>
+        <br />
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -148,8 +147,3 @@
       </p>
 
 </p>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyabh&show_icons=true&locale=en" alt="hiyabh" /></p>
