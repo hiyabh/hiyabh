@@ -1,7 +1,7 @@
 <h1 align="center">Hiya Ben Hamu</h1>
 <h2 align="center">Frontend Developer, Israel </h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
+<p align="center"> <img width="150" src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
 </a> </p>
 <img align="right" alt="Coding" width="300" src="/code.png">
 
