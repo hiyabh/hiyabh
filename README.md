@@ -3,10 +3,10 @@
 
 <p align="center"> <img width="150" src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
 </a> </p>
-<img align="right" alt="Coding" width="350" src="/code.png">
+<img align="right" alt="Coding" width="400" src="/code.png">
 
 - 📫 How to reach me **hiyalea@gmail.com**
-
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiyabh" height="30" width="30" /></a>
@@ -150,3 +150,8 @@
       </p>
 
 </p>
+<br />
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" /></p>
+<p>&nbsp;<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyabh&title=Commits" alt="hiyabh" /></a> </p>
