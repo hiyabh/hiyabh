@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidormalich" height="30" width="30" /></a>
-<a href="https://www.facebook.com/hiyalea" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=18cGpKh7N0dzWzxNZZChTE2xZ2SjB1Qzv" alt="lidormalich2" height="40" width="40" /></a>
-<a href="https://wa.me/972508858932" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1o34Ig1RmdZNnLytHosS83JZ44b7vb6Na" alt="lidormalich2" height="40" width="40" /></a>
-<a href="https://he.quora.com/profile/%D7%97%D7%99%D7%99%D7%90-%D7%91%D7%9F-%D7%97%D7%9E%D7%95" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1dzSYagI1RBOiEvQVWb-cxIVb7BlBzWK2" alt="lidormalich2" height="40" width="40" /></a>
-<a href="https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1Vjrz81jxk5vOX-SKptZphcmLQQpCZ_ab" alt="lidormalich2" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiyabh" height="30" width="30" /></a>
+<a href="https://www.facebook.com/hiyalea" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=18cGpKh7N0dzWzxNZZChTE2xZ2SjB1Qzv" alt="hiyabh" height="40" width="40" /></a>
+<a href="https://wa.me/972508858932" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1o34Ig1RmdZNnLytHosS83JZ44b7vb6Na" alt="hiyabh" height="40" width="40" /></a>
+<a href="https://he.quora.com/profile/%D7%97%D7%99%D7%99%D7%90-%D7%91%D7%9F-%D7%97%D7%9E%D7%95" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1dzSYagI1RBOiEvQVWb-cxIVb7BlBzWK2" alt="hiyabh" height="40" width="40" /></a>
+<a href="https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1Vjrz81jxk5vOX-SKptZphcmLQQpCZ_ab" alt="hiyabh" height="40" width="40" /></a>
 </p>
 <br />
 <h3 align="left">Languages and Tools:</h3>
@@ -144,6 +144,9 @@
             height="40"
           />
         </a>
+        </br>
+        <a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=12VWCiP2rPiT1QozRBxGL-nSwWwcCIP1a" alt="hiyabh" height="50" width="100" /></a>
+         <a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1Fw2RYm7btdbBVny_1cVnCzyAuZydGs3F" alt="hiyabh" height="50" width="100" /></a>
       </p>
 
 </p>
