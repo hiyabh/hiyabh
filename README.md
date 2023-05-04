@@ -1,12 +1,15 @@
 <h1 align="center">Hiya Ben Hamu</h1>
 <h2 align="center">Frontend Developer, Israel </h2>
-
+<br />
 <p align="center"> <img width="250" src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=green&style=flat&label=אנשים+כבר+קפצו+לבקר+כאן" alt="hiyabh" /> </p>
 </a> </p>
-<img align="right" alt="Coding" width="400" src="/code.png">
-
-- 📫 How to reach me **hiyalea@gmail.com**
 <br />
+
+<img align="right" alt="Coding" width="400" src="/code.png">
+- 📫 How to reach me **hiyalea@gmail.com**
+
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiyabh" height="30" width="30" /></a>
@@ -15,6 +18,13 @@
 <a href="https://he.quora.com/profile/%D7%97%D7%99%D7%99%D7%90-%D7%91%D7%9F-%D7%97%D7%9E%D7%95" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1dzSYagI1RBOiEvQVWb-cxIVb7BlBzWK2" alt="hiyabh" height="40" width="40" /></a>
 <a href="https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1Vjrz81jxk5vOX-SKptZphcmLQQpCZ_ab" alt="hiyabh" height="40" width="40" /></a>
 </p>
+<br />
+<br />
+    <div style="display:flex;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyabh&title=Commits" alt="hiyabh" />
+</a>
+</div>
 <br />
 <h3 align="left">Languages and Tools:</h3>
 </p>
@@ -87,7 +97,6 @@
             height="40"
           />
         </a>
-        <br />
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -144,15 +153,6 @@
             height="40"
           />
         </a>
-        </br>
-        <a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=12VWCiP2rPiT1QozRBxGL-nSwWwcCIP1a" alt="hiyabh" height="50" width="100" /></a>
-         <a href="https://www.linkedin.com/in/hiya/" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1Fw2RYm7btdbBVny_1cVnCzyAuZydGs3F" alt="hiyabh" height="50" width="100" /></a>
-      </p>
-
-</p>
-<br />
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" /></p>
-<p>&nbsp;<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyabh&title=Commits" alt="hiyabh" /></a> </p>
-
+        <a href="https://chat.openai.com/" target="blank"><img src="https://drive.google.com/uc?export=view&id=12VWCiP2rPiT1QozRBxGL-nSwWwcCIP1a" alt="hiyabh" height="50" width="100" /></a>
+         <a href="https://github.com/Significant-Gravitas/Auto-GPT" target="blank"><img src="https://drive.google.com/uc?export=view&id=1Fw2RYm7btdbBVny_1cVnCzyAuZydGs3F" alt="hiyabh" height="50" width="100" /></a>
+     
