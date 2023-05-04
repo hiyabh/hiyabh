@@ -1,7 +1,7 @@
 <h1 align="center">Hiya Ben Hamu</h1>
 <h2 align="center">Frontend Developer, Israel </h2>
 
-<p align="center"> <img width="150" src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=0e75b6&style=flat" alt="hiyabh" /> </p>
+<p align="center"> <img width="250" src="https://komarev.com/ghpvc/?username=hiyabh&label=Profile%20views&color=green&style=flat&label=אנשים+כבר+קפצו+לבקר+כאן" alt="hiyabh" /> </p>
 </a> </p>
 <img align="right" alt="Coding" width="400" src="/code.png">
 
@@ -155,3 +155,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiyabh&show_icons=true&locale=en&layout=compact" alt="hiyabh" /></p>
 <p>&nbsp;<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyabh&title=Commits" alt="hiyabh" /></a> </p>
+
