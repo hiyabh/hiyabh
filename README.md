@@ -17,7 +17,7 @@
 - 🔗 Connecting the sacred and the digital: **בין קודש לקוד**
 - 🌱 Deep-diving into **LLM integrations**, **AI Agents**, and **Claude Code**
 - 🎙️ Podcaster on [Spotify](https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw)
-- 📫 Reach me at **hiyalea@gmail.com** | 📞 050-8858071
+- 📫 Reach me at **hiyalea@gmail.com** 
 
 ---
 
