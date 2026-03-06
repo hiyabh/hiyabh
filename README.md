@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hiya+Ben+Hamu+%F0%9F%91%8B;Full+Stack+Developer+%7C+Israel;AI+Tools+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Hiya+Ben+Hamu+%F0%9F%91%8B;Rabbi+%7C+Developer+%7C+AI+Lecturer;%D7%91%D7%99%D7%9F+%D7%A7%D7%95%D7%93%D7%A9+%D7%9C%D7%A7%D7%95%D7%93+%E2%80%94+Between+the+Holy+and+the+Code;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,11 +11,13 @@
 
 ### 👨‍💻 About Me
 
-- 🏗️ **Full Stack Developer** based in Israel
-- 🤖 Passionate about **AI-powered development** — from Claude Code to Cursor to custom agents
-- 🌱 Currently deep-diving into **LLM integrations**, **AI Agents**, and **Vibe Coding**
+- 🕍 **Rabbi & Community Leader** — Beit HaRambam Congregation, Modi'in
+- 💻 **Full Stack Developer** — bridging Torah wisdom with cutting-edge technology
+- 🤖 **AI Lecturer & Researcher** — empowering rabbis, educators & the public with practical AI tools
+- 🔗 Connecting the sacred and the digital: **בין קודש לקוד**
+- 🌱 Deep-diving into **LLM integrations**, **AI Agents**, and **Claude Code**
 - 🎙️ Podcaster on [Spotify](https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw)
-- 📫 Reach me at **hiyalea@gmail.com**
+- 📫 Reach me at **hiyalea@gmail.com** | 📞 050-8858071
 
 ---
 
@@ -38,6 +40,20 @@
     <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🎤 Speaking & Lectures — בין קודש לקוד
+
+> *Bridging Torah scholarship and artificial intelligence — for rabbis, educators, and the broader public*
+
+| Audience | Topics |
+|---|---|
+| 🕍 Rabbis & Religious Leaders | Practical AI tools for sermons, halakhic research, community management |
+| 📚 Educators & Teachers | AI for education, lesson planning, personalized learning |
+| 🌍 General Public | Daily AI use, productivity, understanding the technology age |
+
+📩 **Book a lecture or workshop:** hiyalea@gmail.com | 📞 050-8858071
 
 ---
 
@@ -70,14 +86,14 @@
 
 #### 🤖 AI Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-FF6B35?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -85,16 +101,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hiyabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyabh&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://readme-stats.clckblog.space/api?username=hiyabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=hiyabh&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyabh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=hiyabh&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to build it — with AI as your co-pilot."</i>
+  <i>"The best way to predict the future is to build it — with AI as your co-pilot."</i><br/>
+  <i>״כָּל מַה שֶּׁבָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא בְּעוֹלָמוֹ — לֹא בְרָאוֹ אֶלָּא לִכְבוֹדוֹ״</i>
 </p>
