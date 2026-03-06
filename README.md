@@ -53,7 +53,7 @@
 | 📚 Educators & Teachers | AI for education, lesson planning, personalized learning |
 | 🌍 General Public | Daily AI use, productivity, understanding the technology age |
 
-📩 **Book a lecture or workshop:** hiyalea@gmail.com | 📞 050-8858071
+📩 **Book a lecture or workshop:** hiyalea@gmail.com 
 
 ---
 
