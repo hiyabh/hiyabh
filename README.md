@@ -17,7 +17,7 @@
 - 🔗 Connecting the sacred and the digital: **בין קודש לקוד**
 - 🌱 Deep-diving into **LLM integrations**, **AI Agents**, and **Claude Code**
 - 🎙️ Podcaster on [Spotify](https://open.spotify.com/show/2kElQz5LftxWcwNWai5Su8?si=U8Q75P8FSqKCPFKNbeoVvw)
-- 📫 Reach me at **hiyalea@gmail.com** 
+- 📫 Reach me at **hiyalea@gmail.com**
 
 ---
 
@@ -53,7 +53,7 @@
 | 📚 Educators & Teachers | AI for education, lesson planning, personalized learning |
 | 🌍 General Public | Daily AI use, productivity, understanding the technology age |
 
-📩 **Book a lecture or workshop:** hiyalea@gmail.com 
+📩 **Book a lecture or workshop:** hiyalea@gmail.com
 
 ---
 
@@ -98,16 +98,11 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hiyabh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/hiyabh">
-    <img src="https://img.shields.io/badge/Visit_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hiyabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyabh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
