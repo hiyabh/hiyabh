@@ -98,15 +98,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="160em" src="https://readme-stats.clckblog.space/api?username=hiyabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=hiyabh&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=hiyabh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hiyabh&theme=tokyonight" />
+  <a href="https://github.com/hiyabh">
+    <img src="https://img.shields.io/badge/Visit_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
